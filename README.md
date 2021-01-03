@@ -4,11 +4,11 @@ This project aims to train deep learning models on imdb movie review data to cla
 
 # Technologies/Framework Used
 
-This project was built with Jupyter notebook using python. Some of the necessary libraries were transformers, scikit learn, torch, and pandas.
+This project was built with Jupyter notebook using python. Some of the necessary libraries used were transformers, scikit learn, torch, and pandas.
 
 # Features
 
-A novel aspect my project is its ability to use BERT on longer text data by extracting only key words from each review to use for training. Additionally, this project trains 3 ML models on the data allowing for comparison across a variety of models.
+A novel aspect of my project is its ability to use BERT on longer text data by extracting only key words from each review to use for training. Additionally, this project trains 3 ML models on the data allowing for comparison across a variety of models.
 
 # How to Use
 
